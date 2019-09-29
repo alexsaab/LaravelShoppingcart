@@ -30,7 +30,7 @@
         }
     },
     "suggest": {
-        "gloudemans/notify": "Simple flash notifications for Laravel"
+        "alexsaab/notify": "Simple flash notifications for Laravel"
     },
     "minimum-stability": "stable",
     "extra": {
