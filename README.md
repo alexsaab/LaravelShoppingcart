@@ -7,6 +7,7 @@
 
 A simple shoppingcart implementation for Laravel.
 
+
 ## Installation
 
 Install the package through [Composer](http://getcomposer.org/). 
